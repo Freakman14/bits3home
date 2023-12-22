@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\classobject\bits3home\Task33\bin\Debug\net8.0\Task33.exe
+C:\Users\User\Desktop\classobject\bits3home\Task33\bin\Debug\net8.0\Task33.deps.json
+C:\Users\User\Desktop\classobject\bits3home\Task33\bin\Debug\net8.0\Task33.runtimeconfig.json
+C:\Users\User\Desktop\classobject\bits3home\Task33\bin\Debug\net8.0\Task33.dll
+C:\Users\User\Desktop\classobject\bits3home\Task33\bin\Debug\net8.0\Task33.pdb
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.AssemblyInfo.cs
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.dll
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\refint\Task33.dll
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.pdb
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\Task33.genruntimeconfig.cache
+C:\Users\User\Desktop\classobject\bits3home\Task33\obj\Debug\net8.0\ref\Task33.dll

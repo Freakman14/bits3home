@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\classobject\bits3home\obj\Debug\net8.0\bits3home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\classobject\bits3home\obj\Debug\net8.0\bits3home.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\classobject\bits3home\obj\Debug\net8.0\bits3home.AssemblyInfo.cs
+C:\Users\User\Desktop\classobject\bits3home\obj\Debug\net8.0\bits3home.csproj.CoreCompileInputs.cache
